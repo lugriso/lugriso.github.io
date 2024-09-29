@@ -11,20 +11,15 @@ redirect_from:
 
 Education
 ======
-* PhD in Statistics and Computer Science, Bocconi University, 2021-Current
-* M.S. Statistical Sciences, University of Padua, 2019-2021
-* B.S. in Statistics and Management of Information, University of Milan-Bicocca, 2016-2019 
+* PhD in Statistics and Computer Science, Bocconi University, 2024-Current
+* M.S. Mathematical Engineering, Politecnico di Milano, 2022-2024
+* B.S. Mathematical Engineering, Politecnico di Milano, 2019-2022
 
 Work experience
 ======
-* Internship at Deloitte Consulting (Actuarial Department), Spring 2016
-* Teaching Assistant for the course Statistics (30001) at Bocconi University (a.y. 2022-23, 2023-2024)
+* Internship at Laval University (Statistics Department), Winter 2024
 
 Skills
 ======
-* Programming Language: R, Python, Julia
+* Programming Language: C++, R, Python, Julia
 * Languages: Italian (mothertongue), English
-
-Interests and Activities
-======
-* Sports, amateur basketball player since I was 6

@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Giovanni Romanò"
+title: "Riccardo Lazzarini"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a third year PhD student in Statistics and Computer Science at Bocconi University, Milan.
+I am a first year PhD student in Statistics and Computer Science at Bocconi University, Milan.
 
-You can contact me at giovanni[dot]romano4[at]phd[dot]unibocconi[dot]it.
-
-You can find me in the Office 3-e2-07 in the Grafton Building (via Rontgen 1, Milan, 20136).
+You can contact me at riccardo[dot]lazzarini[at]phd[dot]unibocconi[dot]it.
