@@ -15,9 +15,9 @@ Education
 * M.S. Mathematical Engineering, Politecnico di Milano, 2022-2024
 * B.S. Mathematical Engineering, Politecnico di Milano, 2019-2022
 
-Work experience
+Research experiences
 ======
-* Internship at Laval University (Statistics Department), Winter 2024
+* Internship at Laval University, January-March 2024
 
 Skills
 ======
