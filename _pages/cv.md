@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * PhD in Statistics and Computer Science, Bocconi University, 2024-Current
-* M.S. Mathematical Engineering, Politecnico di Milano, 2022-2024
-* B.S. Mathematical Engineering, Politecnico di Milano, 2019-2022
+* MSc Mathematical Engineering, Politecnico di Milano, 2022-2024
+* BSc Mathematical Engineering, Politecnico di Milano, 2019-2022
 
 Research experiences
 ======
