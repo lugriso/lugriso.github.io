@@ -1,8 +1,2 @@
 luca_griso:
-  name        : "Luca Griso"
-  uri         : "https://github.com/lugriso"
-  email       : "luca.griso@phd.unibocconi.it"
-  bio         : "PhD student in Statistics and Computer Science at Bocconi University, Milan."
-  avatar      : "profile_luca_v3.jpg"   # <— solo il NOME FILE, senza /images/
-  twitter     : ""
-  google_plus : ""
+  name: "Luca Griso"
