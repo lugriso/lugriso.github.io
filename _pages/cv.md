@@ -2,5 +2,7 @@
 layout: single
 title: "CV"
 permalink: /cv/
+author_profile: true
 ---
-Download my CV: [CV (pdf, draft)](/files/cv_draft.pdf)
+
+Cv available [<u>here</u>](/files/cv_draft.pdf)
