@@ -79,10 +79,9 @@ analytics:
     tracking_id          :
 
 
-# Site Author
 author:
   name  : "Luca Griso"
-  avatar: "/images/avatar_luca_2025.jpg"
+  avatar: "profile_luca_final.jpg"   # solo nome, niente /images
   bio   : "PhD student in Statistics and Computer Science."
   location: "Bocconi University, Milan"
   email : "luca.griso@phd.unibocconi.it"
