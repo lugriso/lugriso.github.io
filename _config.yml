@@ -81,41 +81,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Riccardo Lazzarini"
-  avatar           : "profile.png"
-  bio              : "Phd Students in Statistics and Computer Science"
-  location         : "Bocconi University, Milan"
-  employer         :
-  pubmed           :
-  googlescholar    :
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "riccardo-lazzarini"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name        : "Luca Griso"
+  avatar      : "/images/profile_luca.jpg"   # vedi punto 2
+  bio         : "PhD student in Statistics and Computer Science."
+  location    : "Bocconi University, Milan"
+  employer    : ""
+  pubmed      : ""
+  googlescholar: ""
+  email       : "luca.griso@phd.unibocconi.it"
+  researchgate: ""        # es: "https://www.researchgate.net/profile/tuo-nome"
+  uri         : "https://lugriso.github.io"
 
 
 # Reading Files
