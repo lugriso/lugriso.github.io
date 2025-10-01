@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Luca Griso"
-author: luca_griso
 author_profile: true
 ---
 
