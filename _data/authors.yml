@@ -1,11 +1,11 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
+  name        : "Luca Griso"
+  uri         : "https://github.com/lugriso"
+  email       : "luca.griso@phd.unibocconi.it"
   bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
+  avatar      : "/images/profile.jpg"
   twitter     : "name"
   google_plus : "Name"
 
