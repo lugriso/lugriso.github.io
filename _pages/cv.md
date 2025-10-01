@@ -1,7 +1,6 @@
 ---
 layout: single
-title: "Publications"
-permalink: /publications/
+title: "CV"
+permalink: /cv/
 ---
-*(Content coming soon)*
-* Languages: Italian (mothertongue), English
+Download my CV: [CV (pdf, draft)](/files/cv_draft.pdf)
