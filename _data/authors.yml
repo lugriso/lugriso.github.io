@@ -1,2 +1,6 @@
 luca_griso:
-  name: "Luca Griso"
+  name  : "Luca Griso"
+  uri   : "https://github.com/lugriso"
+  email : "luca.griso@phd.unibocconi.it"
+  bio   : "PhD student in Statistics and Computer Science at Bocconi University, Milan."
+  avatar: "profile_luca_final.jpg"   # solo nome, niente /images
