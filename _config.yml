@@ -81,16 +81,12 @@ analytics:
 
 # Site Author
 author:
-  name        : "Luca Griso"
-  avatar      : "/images/profile_luca_v3.jpg"
-  bio         : "PhD student in Statistics and Computer Science."
-  location    : "Bocconi University, Milan"
-  employer    : ""
-  pubmed      : ""
-  googlescholar: ""
-  email       : "luca.griso@phd.unibocconi.it"
-  researchgate: ""        # es: "https://www.researchgate.net/profile/tuo-nome"
-  uri         : "https://lugriso.github.io"
+  name  : "Luca Griso"
+  avatar: "/images/avatar_luca_2025.jpg"
+  bio   : "PhD student in Statistics and Computer Science."
+  location: "Bocconi University, Milan"
+  email : "luca.griso@phd.unibocconi.it"
+  uri   : "https://lugriso.github.io"
 
 
 # Reading Files
