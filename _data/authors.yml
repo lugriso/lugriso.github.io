@@ -4,5 +4,6 @@ luca_griso:
   uri         : "https://github.com/lugriso"
   email       : "luca.griso@phd.unibocconi.it"
   bio         : "PhD student in Statistics and Computer Science at Bocconi University, Milan."
+  avatar      : "/images/profile_luca_v3.jpg"   # <— aggiungi questa riga
   twitter     : ""
   google_plus : ""
