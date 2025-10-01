@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Luca Griso"
 title_separator          : "-"
-name                     : &name "Riccardo Lazzarini"
+name                     : &name "Luca Griso"
 description              : &description "PhD Student Bocconi University"
 url                      : https://riccardo-lazzarini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name        : "Luca Griso"
-  avatar      : "/images/profile_luca.jpg"   # vedi punto 2
+  avatar      : "/images/profile_luca_v2.jpg"   # vedi punto 2
   bio         : "PhD student in Statistics and Computer Science."
   location    : "Bocconi University, Milan"
   employer    : ""
